@@ -1,5 +1,4 @@
 # Car Rental Service
-
 ## Mini-Project-DBMS
 
 Built a Project which was all about designing and creating a data management System for a Car Rental Service. This enables admin to rent a vehicle that can be used by customers. This System increases Customer retention and Simplify vehicle and Staff Management in an efficient way.
